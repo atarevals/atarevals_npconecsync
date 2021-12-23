@@ -6,7 +6,7 @@ Citizen.CreateThread(function()
 	while true do
         Wait(0)
         SetVehicleModelIsSuppressed(GetHashKey("rubble"), true)
-        SetVehicleModelIsSuppressed(GetHashKey("taco"), true) salam
+        SetVehicleModelIsSuppressed(GetHashKey("taco"), true)
         SetVehicleModelIsSuppressed(GetHashKey("biff"), true)
         SetVehicleModelIsSuppressed(GetHashKey("blimp"), true)
         SetVehicleModelIsSuppressed(GetHashKey("blimp2"), true)
